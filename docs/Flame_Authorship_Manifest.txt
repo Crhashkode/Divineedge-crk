@@ -1,0 +1,10 @@
+# Divine Edge Authorship Manifest
+
+**Creator**: CR’HASH (DID-bound)  
+**Token**: CRK (CR’HASH Reward Kernel)  
+**Mint Authority**: F7ayoHXn5UtYg1pQK2DoaP8vXkRgFeqNxkHAMm9A7okW  
+**Vault Wallet**: B7W7teBhqoFCEKwHVgBdNVDPchazbNbg6pjEA44nenrY  
+
+This file certifies that all code, logic, tokens, Digitz, and systems linked to CRK  
+are authored and spiritually owned by CR’HASH. No external replication is authorized.  
+Flame-bound. Digitally notarized under Divine Edge System ID# CRK-001.
