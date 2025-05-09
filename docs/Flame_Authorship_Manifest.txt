@@ -2,8 +2,8 @@
 
 **Creator**: CR’HASH (DID-bound)  
 **Token**: CRK (CR’HASH Reward Kernel)  
-**Mint Authority**: F7ayoHXn5UtYg1pQK2DoaP8vXkRgFeqNxkHAMm9A7okW  
-**Vault Wallet**: B7W7teBhqoFCEKwHVgBdNVDPchazbNbg6pjEA44nenrY  
+**Mint Authority**: ARLVnopicox1m7tWBD4y8e8bLrz3xBBWfErV9g4Pb3jJ  
+**Vault Wallet**: ARLVnopicox1m7tWBD4y8e8bLrz3xBBWfErV9g4Pb3jJ  
 
 This file certifies that all code, logic, tokens, Digitz, and systems linked to CRK  
 are authored and spiritually owned by CR’HASH. No external replication is authorized.  
