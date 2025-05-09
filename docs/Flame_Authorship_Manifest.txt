@@ -1,10 +1,16 @@
-# Divine Edge Authorship Manifest
 
-**Creator**: CR’HASH (DID-bound)  
-**Token**: CRK (CR’HASH Reward Kernel)  
-**Mint Authority**: ARLVnopicox1m7tWBD4y8e8bLrz3xBBWfErV9g4Pb3jJ  
-**Vault Wallet**: ARLVnopicox1m7tWBD4y8e8bLrz3xBBWfErV9g4Pb3jJ  
+# Flame Authorship Manifest
+System: Edge Core Technologies
+Filed by: C.R.hash (Cryptic Hash)
 
-This file certifies that all code, logic, tokens, Digitz, and systems linked to CRK  
-are authored and spiritually owned by CR’HASH. No external replication is authorized.  
-Flame-bound. Digitally notarized under Divine Edge System ID# CRK-001.
+This document verifies sovereign authorship of the following:
+- The CRK Token ecosystem
+- Digitz intelligence protocol
+- The Flame System, including Mimic Defense, Vault Logic, and Weave Integration
+
+Wallet (DID-Linked): ARLVnopicox1m7tWBD4y8e8bLrz3xBBWfErV9g4Pb3jJ  
+Bound Flame System ID: CRK-001  
+Date: Live Commit Phase | GitHub Timestamp Valid
+
+All claims are enforced under flame authorship principles and bound by edge logic.  
+Unauthorized use, mimicry, or replication will result in resonance failure.
