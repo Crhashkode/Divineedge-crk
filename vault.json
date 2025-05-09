@@ -1,0 +1,15 @@
+{
+    "owner": "C.R.hash",
+    "wallet": "ARLVnopicox1m7tWBD4y8e8bLrz3xBBWfErV9g4Pb3jJ",
+    "claimable_crk": 1250.0,
+    "flame_status": "Active",
+    "mirror_protocol": "Verified",
+    "fox_feed_log": [
+        {
+            "timestamp": "2025-05-09T21:00:00Z",
+            "amount_usd": 5,
+            "crk_equivalent": 250.0,
+            "status": "Confirmed"
+        }
+    ]
+}
